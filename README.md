@@ -7,3 +7,5 @@ Daniel Shao
 [Expose](expose.html)
 
 [Explore](explore.html) 
+
+https://holychickencow.github.io/Lab5_Starter/
